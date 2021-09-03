@@ -1,0 +1,146 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "Login___en",
+    "path": "/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "Login___ar",
+    "path": "/ar/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "Login___de",
+    "path": "/de/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "Login___id",
+    "path": "/id/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "Login___pt",
+    "path": "/pt/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "Login___zh",
+    "path": "/zh/Login",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\laragon\\\\www\\\\veluxi_v215\\\\veluxi\\\\packages\\\\agency-theme\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
